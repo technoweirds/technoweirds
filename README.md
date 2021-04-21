@@ -63,11 +63,6 @@ I'm [Neha Mishra](http://nehamishra.netlify.app/), A self-taught software develo
   </p>
 </p> -->
 
-<div align="right">
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=technoweirds)
 
-
-</div>
 
 <!-- [![HitCount](http://hits.dwyl.com/verma-anushka/verma-anushka.svg)](http://hits.dwyl.com/verma-anushka/verma-anushka) -->
