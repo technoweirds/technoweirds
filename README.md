@@ -8,7 +8,7 @@ I'm [Neha Mishra](http://nehamishra.netlify.app/), A self-taught software develo
 
 - <div>
     <!-- <img width="250" height="100" align='left' src="https://www1.nseindia.com/global/resources/images/NSE_reverse@4x-100.jpg" > -->
-    ... as a <strong>Trainee Associate System Analyst</strong> at NSE where I have been assisting in the  development of various portals.
+    ... as a <strong>Software Developer</strong> at NSE where I have been assisting in the  development of various portals.
     <br />
     <strong>View: </strong> <a href="https://www.nseit.com/" >NSEIT.com</a> 
     <br /> 
